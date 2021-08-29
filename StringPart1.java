@@ -31,7 +31,7 @@ public class StringPart1 {
 		System.out.println(firstName.concat(" ").concat(lastName));
 		
 		// isEmty
-		String batch="Batch10";
+		String batch="Batch10"; //  if " " --> true
 		boolean result=batch.isEmpty();
 		System.out.println(result); // false
 
