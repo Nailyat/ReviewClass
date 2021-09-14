@@ -1,4 +1,4 @@
-package com.syntax.review.calss06;
+package com.syntax.review.class06;
 
 public class Student {
 	
